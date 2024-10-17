@@ -2,7 +2,9 @@ import React from 'react'
 
 const RepositoryFinder = () => {
   return (
-    <div>RepositoryFinder</div>
+    <div>
+      <h1>Repository Finder</h1>
+    </div>
   )
 }
 
